@@ -1,0 +1,23 @@
+{
+  "name": "bus-stop-accessibility-public",
+  "label": "Bus Stop Accessibility (Public)",
+  "type": "widget",
+  "version": "1.19.0",
+  "exbVersion": "1.19.0",
+  "author": "Metehan Zorluoglu",
+  "description": "Public/publication version. Southern Nevada: bus stop count only (0 vs 1+ stops, no amenity or frequency data). Washoe: full shelter and frequency scoring. Draws a project-area polygon and scores PST Question 10 (bus stop shelter and 20-minute frequency coverage) for bus stops inside it.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": "jimu-arcgis",
+  "properties": {
+    "hasEmbeddedLayout": false
+  },
+  "useMapWidget": true,
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 380,
+    "height": 620
+  }
+}
