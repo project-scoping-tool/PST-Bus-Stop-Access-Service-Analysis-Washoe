@@ -1,6 +1,6 @@
 {
   "name": "bus-stop-accessibility-public",
-  "label": "Bus Stop Accessibility (Public)",
+  "label": "Bus Stop Information",
   "type": "widget",
   "version": "1.19.0",
   "exbVersion": "1.19.0",

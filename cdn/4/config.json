@@ -3387,7 +3387,7 @@
       },
       "label": "About",
       "config": {
-        "text": "<p style=\"text-align: left; margin: 0px;\">This map displays bus stops in Southern Nevada and provides information used to evaluate <strong>bus stop accessibility, shelter availability, and service frequency</strong> for the Pedestrian Safety Tool (PST).</p><p style=\"text-align: left; margin: 0px;\"><br></p><p style=\"text-align: left; margin: 0px;\">Bus stop data include the location of each stop, whether the stop has a <strong>shelter</strong>, and its <strong>service frequency</strong>. These data are used to determine the number of bus stops within a selected project area and evaluate whether at least half of those stops have shelters and whether at least half receive service <strong>every 20 minutes or more often</strong>.</p><p style=\"text-align: left; margin: 0px;\"><br></p><p style=\"text-align: left; margin: 0px;\"><strong>Note:</strong> Bus stop conditions and service schedules may change over time. The results reflect the information available in the source dataset.</p>",
+        "text": "<p style=\"text-align: left; margin: 0px;\">This map displays bus stops in Southern Nevada and provides information used to evaluate <strong>bus stop information, shelter availability, and service frequency</strong> for the Pedestrian Safety Tool (PST).</p><p style=\"text-align: left; margin: 0px;\"><br></p><p style=\"text-align: left; margin: 0px;\">Bus stop data include the location of each stop, whether the stop has a <strong>shelter</strong>, and its <strong>service frequency</strong>. These data are used to determine the number of bus stops within a selected project area and evaluate whether at least half of those stops have shelters and whether at least half receive service <strong>every 20 minutes or more often</strong>.</p><p style=\"text-align: left; margin: 0px;\"><br></p><p style=\"text-align: left; margin: 0px;\"><strong>Note:</strong> Bus stop conditions and service schedules may change over time. The results reflect the information available in the source dataset.</p>",
         "style": {
           "wrap": true
         },
@@ -3406,7 +3406,7 @@
     "widget_94": {
       "uri": "widgets/bus-stop-accessibility-public/",
       "version": "1.19.0",
-      "label": "Bus Stop Accessibility (Public)",
+      "label": "Bus Stop Information",
       "config": {
         "busStopLayerTitle": "Bus Stop"
       },
@@ -3698,7 +3698,7 @@
     "isWebTier": false,
     "clientId": "",
     "express": false,
-    "title": "PST Bus Stop Access & Service Analysis Washoe",
+    "title": "PST Bus Stop Information",
     "description": "",
     "type": "Web Experience",
     "thumbnail": null
@@ -3889,21 +3889,21 @@
     "dataSource_2": {
       "id": "dataSource_2",
       "type": "WEB_MAP",
-      "sourceLabel": "PST Bus Stop Accessibility – Shelter & Service Frequency",
+      "sourceLabel": "Bus Stop Information",
       "itemId": "29945590d8d54ad885cc89080e3c1266",
       "portalUrl": "https://unlvarcgisonline.maps.arcgis.com"
     },
     "dataSource_3": {
       "id": "dataSource_3",
       "type": "WEB_MAP",
-      "sourceLabel": "Nevada PST Bus Stop Accessibility – Shelter & Service Frequency",
+      "sourceLabel": "Bus Stop Information",
       "itemId": "74f3ac568cc04ee88e318387848a8aa1",
       "portalUrl": "https://unlvarcgisonline.maps.arcgis.com"
     },
     "dataSource_4": {
       "id": "dataSource_4",
       "type": "WEB_MAP",
-      "sourceLabel": "Nevada PST Bus Stop Accessibility – Shelter & Service Frequency_2",
+      "sourceLabel": "Bus Stop Information",
       "itemId": "96e4f1707636489bb919ce9571464fdb",
       "portalUrl": "https://unlvarcgisonline.maps.arcgis.com"
     }
