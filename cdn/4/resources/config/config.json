@@ -2056,7 +2056,7 @@
       "uri": "widgets/common/text/",
       "version": "1.19.0",
       "config": {
-        "text": "<h5>PST Bus Stop Accessibility – Shelter &amp; Service Frequency</h5>",
+        "text": "<h5>PST Bus Stop Information</h5>",
         "placeholder": "<h5>Double click to edit text</h5>",
         "style": {
           "verticalAlign": "start",
